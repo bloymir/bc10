@@ -1,4 +1,4 @@
-package ntapia;
+package ntapia.browser;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.commons.io.FileUtils;
